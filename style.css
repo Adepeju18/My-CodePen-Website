@@ -1,0 +1,40 @@
+h1{
+  font-size:3.5rem;
+  line-height:1.5;
+  color:#000066;
+  
+}
+  
+
+body{
+  
+  text-align:center;
+  font-family:helvetica;
+  font-size:1.3rem;
+  color:#99ccff;
+  margin:0;
+  line-height:1.5;
+    
+  }
+img{
+  max-width:30%;
+  display:block;
+  height:auto;
+  margin:auto;
+  border-radius:5%;
+}
+
+  
+
+    
+#img-div{
+  background:black;
+  padding:10px;
+  magin:0;
+}
+       
+  a-link{
+  color:#660066
+}
+
+  
